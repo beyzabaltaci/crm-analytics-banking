@@ -28,9 +28,6 @@ The following models and techniques are used:
 
 ---
 
-
----
-
 ## Data Privacy Notice
 
 ### Dataset
@@ -100,3 +97,4 @@ Business-Oriented Data Interpretation
 Beyza Baltaci Akbulut
 
 MSc in Data Science & Machine Learning
+
